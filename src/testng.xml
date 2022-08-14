@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<suite name = "nbyula test Fraework">
+
+    <test name = "nbyula test Fraework">
+        <classes>
+            <class name = "test.sampleCode.TestValidationQuest" />
+        </classes>
+    </test>
+</suite>
